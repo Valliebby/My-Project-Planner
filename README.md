@@ -7,4 +7,4 @@ A Project Planner App
 * I presented the time blocks by each hour of the day in script.js by adding if statements to apply the past, present, or future class to each hour.
 * Then I added an event listener to the save button.
 * Last added save content text to local storage to the time blocks save button in script.js. 
-* Thank you and hope you enjoy!
+* Thank you and hope you enjoy!![Mockup](https://user-images.githubusercontent.com/119483866/231847006-3aa6512a-1e5f-432f-af79-70fb77871f31.jpeg)
